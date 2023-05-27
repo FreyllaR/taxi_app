@@ -1,10 +1,10 @@
 At the first launch, you must enter your account details
 
-<img src="https://github.com/FreyllaR/NotebookShop/assets/91470277/e47d2adb-6428-457a-88e8-6f92c6527c12" width="300" height="600">
+<img src="https://github.com/FreyllaR/taxi_app/assets/91470277/0b387304-a921-42d1-981c-c17e14767ef4" width="300" height="600">
 
 After that, our account data is saved
 
-<img src="https://github.com/FreyllaR/taxi_app/assets/91470277/0b387304-a921-42d1-981c-c17e14767ef4" width="300" height="600">
+<img src="https://github.com/FreyllaR/taxi_app/assets/91470277/b04988fc-3245-4a26-b106-97aa555d8f8c" width="300" height="600">
 
 Next we have to write the destination for the taxi
 
